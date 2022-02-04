@@ -1,0 +1,7 @@
+Turn on 2 lights.
+pause for 10 minutes.
+Turn off 1 light.
+leave room with switch and enter into room with light bulbs.
+Light bulb thats on correspond to switch in on position
+Light bulb that is the coldest correspond to swith never touched
+Light bulb remaining (warm and off) correspond to switch that was flipped twice, once to on once to off
